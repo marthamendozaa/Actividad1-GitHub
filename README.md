@@ -4,6 +4,11 @@
 # - Monterrey
 ## - Equipo -
 
+# Rayados vs Atlas - 2-1
+# Tigres vs Mazatlan 5-1
+# Clásico Tigres vs Rayados ???
+
+
 # **Semana Tec**
 😀😆🥹🤣😇🙂
 
