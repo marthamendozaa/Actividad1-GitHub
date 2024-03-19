@@ -1,7 +1,7 @@
 # - H1 Actividad1-GitHub
 # - Martha Mendoza Alfaro
-# - Carrera
-# - Lugar de Origen
+# - ITC
+# - Monterrey
 ## - Equipo -
 
 # **Semana Tec**
