@@ -127,8 +127,10 @@ done()
 # 10. Lista de equipo
 - [x] Mariel Perez
 - [x] Martha Mendoza
-- [ ] Vale Lopez
 
 # 11. emojis
 That is so funny! :joy:
 😀😆🥹🤣😇🙂
+
+# 12. Reflexión
+Me gusto mucho esta clase.
